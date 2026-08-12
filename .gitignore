@@ -1,0 +1,20 @@
+# Данные (конфиденциальные, не должны попадать в репозиторий)
+data/
+*.xlsx
+*.csv
+*.parquet
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Маппинг обезличивания (хранить только локально)
+mapping_shops.json
