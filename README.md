@@ -193,7 +193,3 @@ final_project_hse_eremina/
 - Python 3, Jupyter Notebook
 - pandas, numpy, matplotlib, seaborn, scipy (проверка гипотез), scikit-learn (Ridge, Lasso, Random Forest)
 - GitHub (приватный репозиторий)
-
----
-
-*Автор: Ерёмина Настасия, курс «Аналитик данных», НИУ ВШЭ*
