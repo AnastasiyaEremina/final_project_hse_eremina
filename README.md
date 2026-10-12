@@ -181,7 +181,6 @@ final_project_hse_eremina/
 │   └── reports/              # итоговые CSV
 ├── presentation/
 │   ├── presentation.pptx     # презентация к защите
-│   └── speech.md             # текст выступления
 ├── .gitignore
 ├── README.md
 └── requirements.txt
